@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Source.cpp
+     Создается библиотека C:\Users\eyary\source\repos\DLLYaryy\Release\DLLYaryy.lib и объект C:\Users\eyary\source\repos\DLLYaryy\Release\DLLYaryy.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  DLLYaryy.vcxproj -> C:\Users\eyary\source\repos\DLLYaryy\Release\DLLYaryy.dll
